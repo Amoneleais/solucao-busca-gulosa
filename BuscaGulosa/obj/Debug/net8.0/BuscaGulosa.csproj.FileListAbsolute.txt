@@ -1,0 +1,14 @@
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\bin\Debug\net8.0\BuscaGulosa.exe
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\bin\Debug\net8.0\BuscaGulosa.deps.json
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\bin\Debug\net8.0\BuscaGulosa.runtimeconfig.json
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\bin\Debug\net8.0\BuscaGulosa.dll
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\bin\Debug\net8.0\BuscaGulosa.pdb
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\obj\Debug\net8.0\BuscaGulosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\obj\Debug\net8.0\BuscaGulosa.AssemblyInfoInputs.cache
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\obj\Debug\net8.0\BuscaGulosa.AssemblyInfo.cs
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\obj\Debug\net8.0\BuscaGulosa.csproj.CoreCompileInputs.cache
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\obj\Debug\net8.0\BuscaGulosa.dll
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\obj\Debug\net8.0\refint\BuscaGulosa.dll
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\obj\Debug\net8.0\BuscaGulosa.pdb
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\obj\Debug\net8.0\BuscaGulosa.genruntimeconfig.cache
+C:\Users\manoe\source\repos\BuscaGulosa\BuscaGulosa\obj\Debug\net8.0\ref\BuscaGulosa.dll
